@@ -1,0 +1,9 @@
+Speed:80
+Fuel:5
+Temp:120
+Speed:80
+Fuel:5
+Temp:120
+Speed:80
+Fuel:5
+Temp:120

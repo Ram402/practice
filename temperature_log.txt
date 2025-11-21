@@ -1,0 +1,30 @@
+[sensor] Engine Temperature: 90
+[Engine] Temperature is Normal
+[Actuator] No change in the Cooling System
+[sensor] Engine Temperature: 102
+[Engine] temperature is High
+[Actuator] Cooling system turned ON
+[sensor] Engine Temperature: 90
+[Engine] Temperature is Normal
+[Actuator] No change in the Cooling System
+[sensor] Engine Temperature: 106
+[Engine] temperature is High
+[Actuator] Cooling system turned ON
+[sensor] Engine Temperature: 91
+[Engine] Temperature is Normal
+[Actuator] No change in the Cooling System
+[sensor] Engine Temperature: 87
+[Engine] Temperature is Low
+[Actuator] Cooling system turned OFF
+[sensor] Engine Temperature: 88
+[Engine] Temperature is Low
+[Actuator] Cooling system turned OFF
+[sensor] Engine Temperature: 81
+[Engine] Temperature is Low
+[Actuator] Cooling system turned OFF
+[sensor] Engine Temperature: 103
+[Engine] temperature is High
+[Actuator] Cooling system turned ON
+[sensor] Engine Temperature: 85
+[Engine] Temperature is Low
+[Actuator] Cooling system turned OFF

@@ -1,0 +1,12 @@
+Log: Temperature: 32 Cabin temperature outside comfort range!
+Log: Fan speed: 11 Fan speed is too high
+
+Log: Temperature: 32 Cabin temperature outside comfort range!
+Log: Fan speed: 11 Fan speed is too high
+
+Log: Temperature: 32 Cabin temperature outside comfort range!
+Log: Fan speed: 11 Fan speed is too high
+
+Log: Temperature: 32 Cabin temperature outside comfort range!
+Log: Fan speed: 11 Fan speed is too high
+
