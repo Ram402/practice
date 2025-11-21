@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// hiii
 int main()
 {
     int row = 3,col = 3,num = 1;
@@ -20,4 +20,5 @@ int main()
             printf("%d ",arr[i][j]);
         }
     }
+
 }
