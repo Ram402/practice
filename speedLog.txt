@@ -1,0 +1,7 @@
+[logs] speed: 120 kmph Speed Limit Normal 
+[logs] speed: 120 kmph Speed Limit Normal 
+[logs] speed: 220 kmph Speed Limit Exceeded : Overspeed Warning Initiated 
+[logs] speed: 120 kmph Speed Limit Normal 
+[logs] speed: 120 kmph Speed Limit Normal 
+[logs] speed: 120 kmph Speed Limit Normal 
+[logs] speed: 0 kmph Speed Limit Normal 
